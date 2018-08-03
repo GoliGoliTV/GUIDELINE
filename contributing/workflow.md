@@ -1,6 +1,6 @@
-# PDFE Workflow
+# Goligoli Workflow
 
-!> 以下是 PDFE 的工作流规范
+!> 以下是 GoliGoliTV 的工作流规范
 
 - 当创建一个项目的时候，生成 LICENSE、README、`.gitignore` 等文件；在 `master` 分支之下，完成对基本框架和原型的搭建
 - 在 `master` 分支的基础上 fork 出 `develop` 分支，之后的开发都围绕 `develop` 分支展开，`master` 分支仅存放稳定的代码，生产环境实时同步 `master` 分支
